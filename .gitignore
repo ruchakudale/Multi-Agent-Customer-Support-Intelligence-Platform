@@ -57,6 +57,7 @@ temp/
 data/raw/
 data/database/
 data/vector_store/
+tests/
 
 # Python model artifacts that may be large
 # Uncomment these if you decide not to publish model files:
