@@ -49,14 +49,11 @@ temp/
 *.tmp
 
 # Local databases
-*.db
+
 *.sqlite
 *.sqlite3
 
 # Private or locally generated data
-data/raw/
-data/database/
-data/vector_store/
 tests/
 
 # Python model artifacts that may be large
